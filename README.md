@@ -15,17 +15,17 @@ This application requires permissions for location and file access. When you sta
 
 1. Wake up Sphero by tapping on it
 
-2. Click the Connect slider at the top of the application window
+2. Click the **Connect** slider at the top of the application window
 
 3. Wait for the Sphero connection
 
-4. Press Start Set Heading
+4. Press **Start Set** Heading
 
 5. Pull joystick to the edge
 
 6. Align the blue tail light to your tablet
 
-7. Press Stop Set Heading
+7. Press **Stop Set Heading**
 
 # Note
 
@@ -35,19 +35,19 @@ If the tablet goes to sleep while the Sphero is connected, the Sphero may have d
 
 When you start recording, the sensor data will be recorded and then used for ranking your driving and for learning by using the calculated features to update the learned weights.
 
-Start Recording will record sensor data
+**Start Recording** will record sensor data
 
-Stop Recording will stop recording, rank the driving, and  then update and save the learned weights
+**Stop Recording** will stop recording, rank the driving, and  then update and save the learned weights
 
-Start / Stop Auto Drive will start or stop automatic driving of the shape
+**Start / Stop** Auto Drive will start or stop automatic driving of the shape
 
-Shape Selection radio buttons will switch to the shape and the learned weights for that shape
+**Shape Selection** radio buttons will switch to the shape and the learned weights for that shape
 
-Speed Slider will adjust the maximum speed of the joystick
+**Speed Slider** will adjust the maximum speed of the joystick
 
-Flip Joystick will change the joystick from left-handed to right-handed
+**Flip Joystick** will change the joystick from left-handed to right-handed
 
-Clear Weights will reset the learned weights to default values and save them. Previous learned weights will be lost.
+**Clear Weights** will reset the learned weights to default values and save them. Previous learned weights will be lost.
 
 # File Saving
 
